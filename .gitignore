@@ -1,0 +1,21 @@
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment folders
+venv/
+env/
+.venv/
+ENV/
+
+# Dataset (ignore if dataset is large/private, else remove this line)
+data/*.csv
+
+# System files
+.DS_Store
+Thumbs.db
