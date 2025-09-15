@@ -115,8 +115,7 @@ The repository contains the following files and folders:
 ### File descriptions
 
 - **`notebooks/App_Rating.ipynb`** — Complete step-by-step notebook: data cleaning, EDA, outlier treatment, preprocessing, model building and evaluation.  
-- **`data/googleplaystore.csv`** — Original dataset used for the project. (If the file is large or private, you may include a smaller sample here and add download instructions.)  
-- **`scripts/preprocessing.py`** — Standalone Python script (optional) with cleaning/preprocessing functions extracted from the notebook.  
+- **`googleplaystore.csv`** — Original dataset used for the project. (If the file is large or private, you may include a smaller sample here and add download instructions.)  
 - **`README.md`** — Project overview, problem statement, steps performed, results and instructions to run the project.  
 - **`requirements.txt`** — List of Python packages needed to run the notebook (use `pip install -r requirements.txt`).  
 - **`.gitignore`** — Patterns for files that should not be committed (virtual envs, dataset if you choose to keep it private, notebook checkpoints, etc.).
